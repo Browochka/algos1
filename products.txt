@@ -1,0 +1,500 @@
+supermarket | Хлебобулочные | Булочная Столичная | 65 рублей
+supermarket | Молочные продукты | Домик в деревне | 89 рублей
+supermarket | Молочные продукты | Простоквашино | 75 рублей
+supermarket | Молочные продукты | Савушкин | 95 рублей
+supermarket | Крупы | Мистраль | 112 рублей
+supermarket | Крупы | Националь | 130 рублей
+supermarket | Овощи | Фермерский урожай | 35 рублей
+supermarket | Овощи | Агроферма | 25 рублей
+supermarket | Фрукты | Зеленая Долина | 95 рублей
+supermarket | Фрукты | Сады России | 120 рублей
+supermarket | Мясо | Мираторг | 360 рублей
+supermarket | Мясо | ВкусВилл | 500 рублей
+supermarket | Колбасные изделия | Черкизово | 280 рублей
+supermarket | Колбасные изделия | Окраина | 290 рублей
+supermarket | Замороженные продукты | Морозко | 250 рублей
+supermarket | Замороженные продукты | Кухня без границ | 200 рублей
+supermarket | Сладости | Аленка | 79 рублей
+supermarket | Сладости | Юбилейное | 110 рублей
+supermarket | Напитки | Coca-Cola | 110 рублей
+supermarket | Напитки | Добрый | 95 рублей
+supermarket | Бакалея | Махеев | 50 рублей
+supermarket | Бакалея | Олейна | 130 рублей
+supermarket | Кондитерские изделия | Наполеон | 300 рублей
+supermarket | Кондитерские изделия | Тульский | 95 рублей
+supermarket | Кофе и чай | Jacobs | 300 рублей
+supermarket | Кофе и чай | Ahmad | 150 рублей
+supermarket | Консервы | Bonduelle | 50 рублей
+supermarket | Соусы и специи | Heinz | 90 рублей
+supermarket | Соусы и специи | Махеев | 70 рублей
+supermarket | Рыба и морепродукты | Санта Бремор | 400 рублей
+supermarket | Полуфабрикаты | Мираторг | 250 рублей
+supermarket | Полуфабрикаты | Окраина | 230 рублей
+supermarket | Бытовая химия | Fairy | 120 рублей
+supermarket | Бытовая химия | Ariel | 500 рублей
+supermarket | Корма для животных | Whiskas | 150 рублей
+supermarket | Корма для животных | Pedigree | 120 рублей
+supermarket | Косметика и уход | Nivea | 120 рублей
+supermarket | Косметика и уход | Rexona | 150 рублей
+supermarket | Детские товары | Pampers | 800 рублей
+supermarket | Хлебобулочные | Каравай | 40 рублей
+supermarket | Хлебобулочные | Славянка | 55 рублей
+supermarket | Молочные продукты | Брест-Литовск | 100 рублей
+supermarket | Молочные продукты | Тёма | 45 рублей
+supermarket | Крупы | Агро-альянс | 110 рублей
+supermarket | Крупы | Гудвил | 70 рублей
+supermarket | Овощи | Овощи России | 40 рублей
+supermarket | Фрукты | Дары сада | 85 рублей
+supermarket | Мясо | Глобус | 420 рублей
+supermarket | Колбасные изделия | Папа может | 310 рублей
+supermarket | Замороженные продукты | Сибирская коллекция | 290 рублей
+supermarket | Сладости | Коммунарка | 120 рублей
+supermarket | Напитки | Rich | 130 рублей
+supermarket | Консервы | Рузком | 85 рублей
+supermarket | Соусы и специи | Calve | 75 рублей
+supermarket | Рыба и морепродукты | Русское море | 450 рублей
+supermarket | Полуфабрикаты | Сибирская коллекция | 220 рублей
+supermarket | Бытовая химия | Lenor | 250 рублей
+supermarket | Корма для животных | Китикэт | 130 рублей
+supermarket | Косметика и уход | Colgate | 90 рублей
+supermarket | Детские товары | Хаггис | 850 рублей
+supermarket | Хлебобулочные | Хлебный Дом | 54 рубля
+supermarket | Хлебобулочные | Бородинский | 60 рублей
+supermarket | Молочные продукты | Домик в деревне | 89 рублей
+supermarket | Молочные продукты | Простоквашино | 75 рублей
+supermarket | Крупы | Увелка | 112 рублей
+supermarket | Крупы | Националь | 130 рублей
+supermarket | Овощи | Фермер | 35 рублей
+supermarket | Фрукты | Фруктовый край | 95 рублей
+supermarket | Мясо | Мираторг | 360 рублей
+supermarket | Колбасные изделия | Черкизово | 280 рублей
+supermarket | Замороженные продукты | Останкино | 250 рублей
+supermarket | Сладости | Аленка | 79 рублей
+supermarket | Напитки | Кока-Кола | 110 рублей
+supermarket | Кондитерские изделия | Наполеон | 300 рублей
+supermarket | Консервы | Главпродукт | 50 рублей
+supermarket | Соусы и специи | Heinz | 90 рублей
+supermarket | Рыба и морепродукты | Балтийский берег | 400 рублей
+supermarket | Полуфабрикаты | Мираторг | 250 рублей
+supermarket | Бытовая химия | Fairy | 120 рублей
+supermarket | Корма для животных | Whiskas | 150 рублей
+supermarket | Косметика и уход | Head & Shoulders | 250 рублей
+supermarket | Детские товары | Pampers | 800 рублей
+supermarket | Хлебобулочные | Каравай | 45 рублей
+supermarket | Хлебобулочные | Булочный Завод | 52 рубля
+supermarket | Молочные продукты | Вкуснотеево | 88 рублей
+supermarket | Молочные продукты | Савушкин | 95 рублей
+supermarket | Крупы | Агро-Альянс | 100 рублей
+supermarket | Овощи | Свой урожай | 40 рублей
+supermarket | Фрукты | Сады России | 90 рублей
+supermarket | Мясо | Тавр | 500 рублей
+supermarket | Колбасные изделия | Великолукский МК | 320 рублей
+supermarket | Замороженные продукты | Дымов | 260 рублей
+supermarket | Сладости | Коркунов | 100 рублей
+supermarket | Напитки | Пепси | 100 рублей
+supermarket | Бакалея | Шебекинские | 70 рублей
+supermarket | Кондитерские изделия | Рот-Фронт | 120 рублей
+supermarket | Кофе и чай | Nescafe | 350 рублей
+supermarket | Консервы | Бондюэль | 80 рублей
+supermarket | Соусы и специи | Чумак | 70 рублей
+supermarket | Рыба и морепродукты | Санта Бремор | 350 рублей
+supermarket | Полуфабрикаты | Останкино | 220 рублей
+supermarket | Бытовая химия | Ariel | 400 рублей
+supermarket | Корма для животных | Pedigree | 120 рублей
+supermarket | Косметика и уход | Dove | 180 рублей
+supermarket | Детские товары | Хаггис | 750 рублей
+supermarket | Хлебобулочные | Паляничка | 55 рублей
+supermarket | Молочные продукты | Брест-Литовск | 92 рубля
+supermarket | Крупы | Селяночка | 120 рублей
+supermarket | Овощи | Зеленая линия | 50 рублей
+supermarket | Фрукты | Агроферма | 85 рублей
+supermarket | Мясо | КампоМос | 480 рублей
+supermarket | Колбасные изделия | Папа может | 300 рублей
+supermarket | Замороженные продукты | Золотой Петушок | 210 рублей
+supermarket | Сладости | Коммунарка | 110 рублей
+supermarket | Напитки | Добрый | 85 рублей
+supermarket | Бакалея | Златые | 60 рублей
+supermarket | Кондитерские изделия | Слодыч | 135 рублей
+supermarket | Кофе и чай | Ahmad Tea | 250 рублей
+supermarket | Консервы | Рыбный остров | 120 рублей
+supermarket | Соусы и специи | Торчин | 65 рублей
+supermarket | Рыба и морепродукты | Рыбная фабрика | 430 рублей
+supermarket | Полуфабрикаты | Элика | 195 рублей
+supermarket | Бытовая химия | Мистер Мускул | 170 рублей
+supermarket | Корма для животных | Purina | 160 рублей
+supermarket | Косметика и уход | Nivea | 150 рублей
+supermarket | Детские товары | Солнце и Луна | 700 рублей
+alcohol | Вино | Массандра | 400 рублей
+alcohol | Вино | Шато Тамань | 550 рублей
+alcohol | Вино | Винодельня Фанагория | 600 рублей
+alcohol | Вино | Абрау-Дюрсо | 700 рублей
+alcohol | Вино | Инкерман | 500 рублей
+alcohol | Пиво | Балтика 7 | 60 рублей
+alcohol | Пиво | Жигулевское | 50 рублей
+alcohol | Пиво | Heineken | 90 рублей
+alcohol | Пиво | Hoegaarden | 120 рублей
+alcohol | Пиво | Guinness | 150 рублей
+alcohol | Виски | Jameson | 1500 рублей
+alcohol | Виски | Jack Daniel's | 2000 рублей
+alcohol | Виски | Chivas Regal | 2500 рублей
+alcohol | Виски | Johnnie Walker | 1800 рублей
+alcohol | Виски | The Macallan | 3000 рублей
+alcohol | Водка | Белуга | 900 рублей
+alcohol | Водка | Царская | 850 рублей
+alcohol | Водка | Русский Стандарт | 700 рублей
+alcohol | Водка | Финляндия | 1000 рублей
+alcohol | Водка | Абсолют | 1200 рублей
+alcohol | Коньяк | Арарат | 1300 рублей
+alcohol | Коньяк | Hennessy | 3500 рублей
+alcohol | Коньяк | Remy Martin | 4000 рублей
+alcohol | Коньяк | Courvoisier | 3200 рублей
+alcohol | Коньяк | Кизлярский | 900 рублей
+alcohol | Ликер | Baileys | 1200 рублей
+alcohol | Ликер | Amaretto | 1100 рублей
+alcohol | Ликер | Sheridan's | 1500 рублей
+alcohol | Ликер | Malibu | 1300 рублей
+alcohol | Ликер | Kahlua | 1400 рублей
+alcohol | Шампанское | Советское | 300 рублей
+alcohol | Шампанское | Bosca | 450 рублей
+alcohol | Шампанское | Moet & Chandon | 3500 рублей
+alcohol | Шампанское | Veuve Clicquot | 4000 рублей
+alcohol | Шампанское | Martini Asti | 1500 рублей
+alcohol | Ром | Bacardi | 1300 рублей
+alcohol | Ром | Captain Morgan | 1200 рублей
+alcohol | Ром | Havana Club | 1400 рублей
+alcohol | Ром | Sailor Jerry | 1600 рублей
+alcohol | Ром | Zacapa | 3500 рублей
+alcohol | Текила | Olmeca | 1600 рублей
+alcohol | Текила | Jose Cuervo | 1500 рублей
+alcohol | Текила | Patron | 4000 рублей
+alcohol | Текила | Espolon | 1800 рублей
+alcohol | Текила | Don Julio | 4500 рублей
+alcohol | Джин | Beefeater | 1100 рублей
+alcohol | Джин | Bombay Sapphire | 1300 рублей
+alcohol | Джин | Tanqueray | 1400 рублей
+alcohol | Джин | Hendrick's | 2200 рублей
+alcohol | Джин | Gordon's | 1000 рублей
+alcohol | Вермуты | Martini Rosso | 900 рублей
+alcohol | Вермуты | Cinzano Bianco | 850 рублей
+alcohol | Вермуты | Campari | 1200 рублей
+alcohol | Вермуты | Noilly Prat | 1400 рублей
+alcohol | Вермуты | Carpano | 1500 рублей
+alcohol | Бренди | Metaxa | 1500 рублей
+alcohol | Бренди | Pliska | 1300 рублей
+alcohol | Бренди | Torres | 1400 рублей
+alcohol | Бренди | Ararat | 1600 рублей
+alcohol | Бренди | Vecchia Romagna | 1700 рублей
+alcohol | Портвейн | Sandeman | 800 рублей
+alcohol | Портвейн | Graham's | 1200 рублей
+alcohol | Портвейн | Fonseca | 1100 рублей
+alcohol | Портвейн | Dow's | 1000 рублей
+alcohol | Портвейн | Cockburn's | 900 рублей
+alcohol | Сидр | Strongbow | 150 рублей
+alcohol | Сидр | Somersby | 160 рублей
+alcohol | Сидр | Apple Fox | 140 рублей
+alcohol | Сидр | Magners | 180 рублей
+alcohol | Сидр | Fizzy | 130 рублей
+alcohol | Пиво | Budweiser | 100 рублей
+alcohol | Пиво | Leffe | 120 рублей
+alcohol | Пиво | Stella Artois | 110 рублей
+alcohol | Пиво | Carlsberg | 100 рублей
+alcohol | Пиво | Amstel | 90 рублей
+alcohol | Эль | Kilkenny | 180 рублей
+alcohol | Эль | Fuller's | 190 рублей
+alcohol | Эль | Newcastle Brown Ale | 160 рублей
+alcohol | Эль | Bass Pale Ale | 170 рублей
+alcohol | Эль | Old Speckled Hen | 150 рублей
+books | Научная фантастика | Лем | 350 рублей
+books | Научная фантастика | Азимов | 400 рублей
+books | Научная фантастика | Брэдбери | 320 рублей
+books | Фэнтези | Толкин | 450 рублей
+books | Фэнтези | Мартин | 600 рублей
+books | Фэнтези | Роулинг | 550 рублей
+books | Детектив | Кристи | 280 рублей
+books | Детектив | Конан Дойль | 300 рублей
+books | Детектив | Чейз | 250 рублей
+books | Классика | Достоевский | 500 рублей
+books | Классика | Толстой | 600 рублей
+books | Классика | Чехов | 350 рублей
+books | Современная проза | Пелевин | 450 рублей
+books | Современная проза | Сорокин | 420 рублей
+books | Современная проза | Глуховский | 380 рублей
+books | Исторический роман | Дюма | 400 рублей
+books | Исторический роман | Фоллетт | 520 рублей
+books | Исторический роман | Пикуля | 330 рублей
+books | Философия | Ницше | 300 рублей
+books | Философия | Кант | 350 рублей
+books | Философия | Сартр | 400 рублей
+books | Поэзия | Есенин | 200 рублей
+books | Поэзия | Пушкин | 250 рублей
+books | Поэзия | Ахматова | 280 рублей
+books | Психология | Фрейд | 450 рублей
+books | Психология | Юнг | 500 рублей
+books | Психология | Фромм | 350 рублей
+books | Бизнес-литература | Кийосаки | 500 рублей
+books | Бизнес-литература | Карнеги | 400 рублей
+books | Бизнес-литература | Талеб | 600 рублей
+books | Саморазвитие | Кови | 350 рублей
+books | Саморазвитие | Трейси | 300 рублей
+books | Саморазвитие | Синек | 450 рублей
+books | Научпоп | Саган | 320 рублей
+books | Научпоп | Докинз | 360 рублей
+books | Научпоп | Хокинг | 400 рублей
+books | Фантастика | Кларк | 380 рублей
+books | Фантастика | Хайнлайн | 390 рублей
+books | Фантастика | Герберт | 420 рублей
+books | Приключения | Жюль Верн | 310 рублей
+books | Приключения | Стивенсон | 290 рублей
+books | Приключения | Дефо | 330 рублей
+books | Юмор | Зощенко | 200 рублей
+books | Юмор | Ильф и Петров | 220 рублей
+books | Юмор | Вудхаус | 250 рублей
+books | Эзотерика | Блаватская | 320 рублей
+books | Эзотерика | Кастанеда | 450 рублей
+books | Эзотерика | Ошо | 400 рублей
+books | Детская литература | Чуковский | 150 рублей
+books | Детская литература | Маршак | 140 рублей
+books | Детская литература | Бианки | 180 рублей
+books | Классика | Гоголь | 300 рублей
+books | Классика | Тургенев | 350 рублей
+books | Классика | Островский | 320 рублей
+books | Научная фантастика | Гаррисон | 340 рублей
+books | Научная фантастика | Саймак | 360 рублей
+books | Фэнтези | Сапковский | 480 рублей
+books | Фэнтези | Льюис | 450 рублей
+books | Фэнтези | Эриксон | 490 рублей
+books | Детектив | Хмелевская | 280 рублей
+books | Детектив | Маклин | 300 рублей
+books | Детектив | Гарднер | 270 рублей
+books | Исторический роман | Толстой А. | 400 рублей
+books | Исторический роман | Манфреди | 450 рублей
+books | Исторический роман | Хейли | 480 рублей
+books | Философия | Шопенгауэр | 350 рублей
+books | Философия | Лао-цзы | 300 рублей
+books | Философия | Платон | 400 рублей
+books | Поэзия | Бродский | 300 рублей
+books | Поэзия | Лермонтов | 350 рублей
+books | Поэзия | Маяковский | 320 рублей
+books | Психология | Адлер | 450 рублей
+books | Психология | Пиаже | 420 рублей
+books | Психология | Бандура | 380 рублей
+books | Бизнес-литература | Грин | 500 рублей
+books | Бизнес-литература | Шарма | 450 рублей
+books | Бизнес-литература | Браун | 400 рублей
+books | Саморазвитие | Трамп | 500 рублей
+books | Саморазвитие | Канеман | 600 рублей
+books | Саморазвитие | Маккьюэн | 450 рублей
+books | Научпоп | Тайсон | 300 рублей
+books | Научпоп | Грин | 350 рублей
+books | Научпоп | Куриосити | 400 рублей
+books | Фантастика | Дик | 500 рублей
+books | Фантастика | Воннегут | 450 рублей
+books | Фантастика | Бэнкс | 480 рублей
+books | Приключения | Дюма | 330 рублей
+books | Приключения | Сабатини | 340 рублей
+books | Приключения | Лондон | 290 рублей
+books | Юмор | Марк Твен | 200 рублей
+books | Юмор | Гашек | 230 рублей
+books | Юмор | Вуди Аллен | 260 рублей
+books | Эзотерика | Гурджиев | 400 рублей
+books | Эзотерика | Рам Дас | 450 рублей
+books | Эзотерика | Успенский | 420 рублей
+books | Детская литература | Барто | 160 рублей
+books | Детская литература | Драгунский | 170 рублей
+books | Детская литература | Бажов | 180 рублей
+books | Классика | Грибоедов | 340 рублей
+books | Классика | Лесков | 360 рублей
+books | Классика | Бунин | 380 рублей
+electronics | Видеокарта | Nvidia | 15500 рублей
+electronics | Видеокарта | AMD | 12000 рублей
+electronics | Процессор | Intel | 20000 рублей
+electronics | Процессор | AMD | 18000 рублей
+electronics | Материнская плата | ASUS | 10000 рублей
+electronics | Материнская плата | Gigabyte | 9500 рублей
+electronics | Жесткий диск | Seagate | 5000 рублей
+electronics | Жесткий диск | Western Digital | 5500 рублей
+electronics | Монитор | Samsung | 12000 рублей
+electronics | Монитор | LG | 11000 рублей
+electronics | Клавиатура | Logitech | 2500 рублей
+electronics | Клавиатура | Razer | 4500 рублей
+electronics | Мышь | SteelSeries | 3000 рублей
+electronics | Мышь | Logitech | 3500 рублей
+electronics | Наушники | Sony | 7000 рублей
+electronics | Наушники | JBL | 5500 рублей
+electronics | Телевизор | Samsung | 35000 рублей
+electronics | Телевизор | LG | 32000 рублей
+electronics | Смартфон | Apple | 60000 рублей
+electronics | Смартфон | Samsung | 50000 рублей
+electronics | Планшет | Apple | 45000 рублей
+electronics | Планшет | Samsung | 40000 рублей
+electronics | Фотоаппарат | Canon | 35000 рублей
+electronics | Фотоаппарат | Nikon | 37000 рублей
+electronics | Часы | Apple | 25000 рублей
+electronics | Часы | Samsung | 22000 рублей
+electronics | Игровая консоль | Sony | 45000 рублей
+electronics | Игровая консоль | Microsoft | 40000 рублей
+electronics | Ноутбук | HP | 60000 рублей
+electronics | Ноутбук | Dell | 55000 рублей
+electronics | Колонки | JBL | 5000 рублей
+electronics | Колонки | Sony | 7000 рублей
+electronics | Роутер | TP-Link | 3000 рублей
+electronics | Роутер | ASUS | 3500 рублей
+electronics | Флешка | SanDisk | 1500 рублей
+electronics | Флешка | Kingston | 1300 рублей
+electronics | Микрофон | Blue Yeti | 8000 рублей
+electronics | Микрофон | Rode | 7500 рублей
+electronics | Внешний жесткий диск | Seagate | 6000 рублей
+electronics | Внешний жесткий диск | WD | 6500 рублей
+electronics | Сканер | Epson | 10000 рублей
+electronics | Сканер | Canon | 9500 рублей
+electronics | Принтер | HP | 8000 рублей
+electronics | Принтер | Canon | 8500 рублей
+electronics | Электронная книга | Kindle | 9000 рублей
+electronics | Электронная книга | PocketBook | 7500 рублей
+electronics | Проектор | Epson | 25000 рублей
+electronics | Проектор | BenQ | 24000 рублей
+electronics | Умная колонка | Apple | 18000 рублей
+electronics | Умная колонка | Google | 12000 рублей
+electronics | Монитор | Acer | 11000 рублей
+electronics | Монитор | Dell | 11500 рублей
+electronics | Клавиатура | Microsoft | 2300 рублей
+electronics | Клавиатура | SteelSeries | 4200 рублей
+electronics | Мышь | Microsoft | 2500 рублей
+electronics | Мышь | Razer | 3800 рублей
+electronics | Наушники | Sennheiser | 8000 рублей
+electronics | Наушники | Bose | 8500 рублей
+electronics | Телевизор | Philips | 30000 рублей
+electronics | Телевизор | Sony | 40000 рублей
+electronics | Смартфон | Xiaomi | 35000 рублей
+electronics | Смартфон | OnePlus | 45000 рублей
+electronics | Планшет | Lenovo | 35000 рублей
+electronics | Планшет | Huawei | 37000 рублей
+electronics | Фотоаппарат | Sony | 38000 рублей
+electronics | Фотоаппарат | Olympus | 36000 рублей
+electronics | Часы | Garmin | 20000 рублей
+electronics | Часы | Fitbit | 17000 рублей
+electronics | Игровая консоль | Nintendo | 30000 рублей
+electronics | Игровая консоль | Sony | 46000 рублей
+electronics | Ноутбук | Acer | 58000 рублей
+electronics | Ноутбук | MSI | 62000 рублей
+electronics | Колонки | Bose | 8500 рублей
+electronics | Колонки | Harman Kardon | 9000 рублей
+electronics | Роутер | Xiaomi | 3200 рублей
+electronics | Роутер | Linksys | 4000 рублей
+electronics | Флешка | Transcend | 1400 рублей
+electronics | Флешка | ADATA | 1600 рублей
+electronics | Микрофон | Shure | 8500 рублей
+electronics | Микрофон | Audio-Technica | 9000 рублей
+electronics | Внешний жесткий диск | Toshiba | 5500 рублей
+electronics | Внешний жесткий диск | Samsung | 6200 рублей
+electronics | Сканер | Brother | 10500 рублей
+electronics | Сканер | Fujitsu | 9500 рублей
+electronics | Принтер | Brother | 8300 рублей
+electronics | Принтер | Epson | 8700 рублей
+electronics | Электронная книга | ONYX | 8500 рублей
+electronics | Электронная книга | Barnes & Noble | 8000 рублей
+electronics | Проектор | Sony | 26000 рублей
+electronics | Проектор | LG | 25000 рублей
+electronics | Умная колонка | Yandex | 9000 рублей
+electronics | Умная колонка | Amazon | 11000 рублей
+supermarket | Газировка | Добрый | 129 рублей
+supermarket | Газировка | Coca-Cola | 99 рублей
+supermarket | Газировка | Pepsi | 95 рублей
+supermarket | Сок | Добрый | 110 рублей
+supermarket | Сок | Фруктовый Сад | 105 рублей
+supermarket | Минеральная вода | Боржоми | 89 рублей
+supermarket | Минеральная вода | Ессентуки | 79 рублей
+supermarket | Шоколад | Аленка | 150 рублей
+supermarket | Шоколад | Milka | 130 рублей
+supermarket | Молоко | Домик в деревне | 70 рублей
+supermarket | Молоко | Простоквашино | 65 рублей
+supermarket | Сыр | Президент | 250 рублей
+supermarket | Сыр | Hochland | 220 рублей
+supermarket | Йогурт | Активиа | 50 рублей
+supermarket | Йогурт | Чудо | 55 рублей
+supermarket | Макароны | Барилла | 90 рублей
+supermarket | Макароны | Макфа | 85 рублей
+supermarket | Хлеб | Бородинский | 40 рублей
+supermarket | Хлеб | Нарезной | 35 рублей
+supermarket | Мясо | Мираторг | 300 рублей
+supermarket | Мясо | Ремит | 290 рублей
+supermarket | Колбаса | Останкино | 250 рублей
+supermarket | Колбаса | Дымов | 270 рублей
+supermarket | Пельмени | Цезарь | 320 рублей
+supermarket | Пельмени | Окраина | 330 рублей
+supermarket | Замороженные овощи | Hortex | 150 рублей
+supermarket | Замороженные овощи | 4 сезона | 140 рублей
+supermarket | Кофе | Jacobs | 450 рублей
+supermarket | Кофе | Nescafe | 430 рублей
+supermarket | Чай | Lipton | 130 рублей
+supermarket | Чай | Greenfield | 120 рублей
+supermarket | Конфеты | Красный Октябрь | 200 рублей
+supermarket | Конфеты | Рот Фронт | 190 рублей
+supermarket | Печенье | Юбилейное | 80 рублей
+supermarket | Печенье | Орео | 100 рублей
+supermarket | Масло сливочное | Экомилк | 150 рублей
+supermarket | Масло сливочное | Крестьянское | 140 рублей
+supermarket | Крупа гречневая | Увелка | 90 рублей
+supermarket | Крупа гречневая | Националь | 95 рублей
+supermarket | Рис | Мистраль | 100 рублей
+supermarket | Рис | Увелка | 95 рублей
+supermarket | Кетчуп | Heinz | 120 рублей
+supermarket | Кетчуп | Махеев | 110 рублей
+supermarket | Майонез | Calve | 150 рублей
+supermarket | Майонез | Махеев | 140 рублей
+supermarket | Сметана | Простоквашино | 60 рублей
+supermarket | Сметана | Домик в деревне | 65 рублей
+supermarket | Сосиски | Останкино | 240 рублей
+supermarket | Сосиски | Микоян | 230 рублей
+supermarket | Вода | Аква Минерале | 40 рублей
+supermarket | Вода | Шишкин лес | 45 рублей
+supermarket | Пиво | Балтика | 85 рублей
+supermarket | Пиво | Жигулевское | 70 рублей
+supermarket | Вино | Каберне | 350 рублей
+supermarket | Вино | Шардоне | 370 рублей
+supermarket | Водка | Белуга | 1000 рублей
+supermarket | Водка | Русский Стандарт | 900 рублей
+supermarket | Коньяк | Hennessy | 3000 рублей
+supermarket | Коньяк | АрАрАт | 1200 рублей
+supermarket | Зубная паста | Colgate | 80 рублей
+supermarket | Зубная паста | Splat | 90 рублей
+supermarket | Шампунь | Head & Shoulders | 250 рублей
+supermarket | Шампунь | Clear | 230 рублей
+supermarket | Гель для душа | Nivea | 200 рублей
+supermarket | Гель для душа | Dove | 190 рублей
+supermarket | Мыло | Dove | 50 рублей
+supermarket | Мыло | Невская косметика | 40 рублей
+supermarket | Батарейки | Duracell | 120 рублей
+supermarket | Батарейки | Energizer | 110 рублей
+supermarket | Туалетная бумага | Zewa | 180 рублей
+supermarket | Туалетная бумага | Kleenex | 170 рублей
+supermarket | Салфетки | Kleenex | 50 рублей
+supermarket | Салфетки | Zewa | 55 рублей
+supermarket | Мусорные пакеты | Paclan | 70 рублей
+supermarket | Мусорные пакеты | Fackelmann | 65 рублей
+supermarket | Освежитель воздуха | Glade | 150 рублей
+supermarket | Освежитель воздуха | Air Wick | 140 рублей
+supermarket | Средство для мытья посуды | Fairy | 90 рублей
+supermarket | Средство для мытья посуды | AOS | 85 рублей
+supermarket | Средство для чистки | Cif | 120 рублей
+supermarket | Средство для чистки | Comet | 110 рублей
+supermarket | Моющее средство | Persil | 450 рублей
+supermarket | Моющее средство | Tide | 430 рублей
+supermarket | Прокладки | Always | 150 рублей
+supermarket | Прокладки | Naturella | 140 рублей
+supermarket | Подгузники | Pampers | 1000 рублей
+supermarket | Подгузники | Huggies | 950 рублей
+supermarket | Влажные салфетки | Pampers | 70 рублей
+supermarket | Влажные салфетки | Huggies | 65 рублей
+supermarket | Средство для стекол | Clin | 100 рублей
+supermarket | Средство для стекол | Мистер Мускул | 90 рублей
+supermarket | Средство для ванной | Sanfor | 110 рублей
+supermarket | Средство для ванной | Cillit Bang | 120 рублей
+supermarket | Кошачий корм | Whiskas | 150 рублей
+supermarket | Кошачий корм | Felix | 140 рублей
+supermarket | Собачий корм | Pedigree | 300 рублей
+supermarket | Собачий корм | Chappi | 290 рублей
+supermarket | Лапша быстрого приготовления | Доширак | 40 рублей
+supermarket | Лапша быстрого приготовления | Роллтон | 35 рублей
+supermarket | Сосиски | Дымов | 230 рублей
+supermarket | Сосиски | Клинский | 220 рублей .
